@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Icpc
-- - 📫 How to reach me ...
+
   
 
 <!---
